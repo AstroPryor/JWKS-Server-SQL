@@ -15,14 +15,14 @@ The features in this code are:
 - Uses `unittest` for testing and `unittest.mock` to mock HTTP requests.
 
 To run the code
-1. ensure that all of the packages mentioned above are installed
+1. Ensure that all of the packages mentioned above are installed
 2. Then create and activate your virtual machine, I used venv
 3. Then run the server in one terminal using python app.py
 3. Then run the test script
 
 To run the tests
-1. use python -m unittest test_jwt.py
+1. Use python -m unittest test_jwt.py
 2. Then install the coverage package
 3. Then run the tests using coverage
-4. type coverage run -m unittest test_jwt.py
-5. type coverage report -m
+4. Type coverage run -m unittest test_jwt.py
+5. Type coverage report -m
