@@ -331,24 +331,6 @@ Through this project, I gained hands-on experience with:
 
 This project helped me better understand how authentication systems can store key material, retrieve valid keys, expose public keys for JWT verification, and manage expired keys securely.
 
-## Future Improvements
-
-Future improvements could include:
-
-- Adding a `requirements.txt` file for easier dependency installation
-- Encrypting private keys before storing them in the database
-- Adding user registration
-- Adding authentication request logging
-- Adding rate limiting to the authentication endpoint
-- Improving database initialization and cleanup
-- Adding stronger input validation
-- Improving error handling and response formatting
-- Adding more detailed test cases
-- Adding API documentation
-- Adding Docker support for easier setup
-- Adding environment variable support for configuration
-- Separating database logic into its own module
-
 ## Related Versions
 
 This repository is the second version of the JWKS server project.
